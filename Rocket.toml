@@ -1,0 +1,4 @@
+[default.limits]
+"image/svg+xml" = "50 MiB"
+bytes = "50 MiB"
+string = "50 MiB"

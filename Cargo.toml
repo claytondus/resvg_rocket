@@ -1,5 +1,5 @@
 [package]
-name = "resvg_svg_rocket"
+name = "resvg_rocket"
 version = "0.1.0"
 edition = "2021"
 
